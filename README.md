@@ -31,12 +31,3 @@ Seeking New Opportunities: A Passionate Web Developer, Could Engineer and Applic
 <a href="http://www.github.com/newpkorn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=newpkorn&stroke=ffffff&background=181824&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=newpkorn&show_&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true&icons=true&locale=en&layout=compact)
-
-$.ajax({
-  type: 'GET',
-  url: 'https://wakatime.com/share/@newpkorn/7c933a41-5454-4490-8c4d-21d13a7f696c.json',
-  dataType: 'jsonp',
-  success: function(response) {
-    console.log(response.data);
-  },
-});
