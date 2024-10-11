@@ -26,4 +26,4 @@ Seeking New Opportunities: A Passionate Web Developer, Could Engineer and Applic
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=newpkorn&show_&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true&icons=true&locale=en&layout=compact)
 
-[![wakatime](https://wakatime.com/badge/user/77d22f91-8486-4d9e-8550-5a6be166e560.svg)](https://wakatime.com/@77d22f91-8486-4d9e-8550-5a6be166e560)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=newpkorn)
