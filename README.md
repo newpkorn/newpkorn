@@ -30,4 +30,4 @@ Seeking New Opportunities: A Passionate Web Developer, Could Engineer and Applic
 
 ## Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=newpkorn&show_icons=true&locale=en&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=newpkorn&show_&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true&icons=true&locale=en&layout=compact)
