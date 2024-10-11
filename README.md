@@ -22,8 +22,8 @@ Seeking New Opportunities: A Passionate Web Developer, Could Engineer and Applic
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/newpkorn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=newpkorn&stroke=ffffff&background=181824&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=newpkorn&show_&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true&icons=true&locale=en&layout=compact)
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=newpkorn)
+<a href="http://www.github.com/newpkorn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=newpkorn&stroke=ffffff&background=181824&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=newpkorn&show_&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true&icons=true&locale=en&layout=compact)
