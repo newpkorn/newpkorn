@@ -28,8 +28,7 @@ Seeking New Opportunities: A Passionate Web Developer, Could Engineer and Applic
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=newpkorn&show_&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true&icons=true&locale=en&layout=compact)
 
-## GitHub Commits Graph
+## WakaTime Stats
 
-<a href="http://www.github.com/newpkorn">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=newpkorn&bg_color=181824&color=ffffff&line=ef4444&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-</a>
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=newpkorn)
+
