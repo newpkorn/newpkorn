@@ -22,7 +22,7 @@ Seeking New Opportunities: A Passionate Web Developer, Could Engineer and Applic
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/newpkorn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=newpkorn&stroke=ffffff&background=181824&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/newpkorn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=newpkorn&stroke=ffffff&background=181824&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ## Most Used Languages
 
