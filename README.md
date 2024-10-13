@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Seeking New Opportunities: A Passionate Web Developer, Could Engineer and Application Support, Ready for a Career Transition.
 
 * 🌍  I'm based in BKK, TH
-* 🖥️  Visit me at [newpk.is-a.dev](http://newpk.is-a.dev)
+* 🖥️  Get to know me at [newpk.is-a.dev](http://newpk.is-a.dev)
 
 ### Skills
 
