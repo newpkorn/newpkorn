@@ -8,8 +8,7 @@ Hi there! Call me "New" for short. 👋
 Seeking New Opportunities: A Passionate Web Developer, Could Engineer and Application Support, Ready for a Career Transition.
 
 * 🌍  I'm based in BKK, TH
-* 🖥️  Get to know me at [newpk.is-a.dev](http://newpk.is-a.dev), [new-pakorn](https://newpk-portfolio.netlify.app/) <a href="http://newpk.is-a.dev" target="_blank">newpk.is-a.dev</a>, <a href="https://newpk-portfolio.netlify.app/" target="_blank">new-pakorn</a>
-
+* 🖥️  Get to know me at [newpk.is-a.dev](http://newpk.is-a.dev), [new-pakorn](https://newpk-portfolio.netlify.app/)
 ### Skills
 
 
