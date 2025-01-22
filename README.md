@@ -5,7 +5,7 @@
 Hi there! Call me "New" for short. 👋
 ==================================================================================================================================
 
-I am seeking new opportunities as a passionate Web Developer, Automation Tester, Could Engineer, and Application Support, and I am ready for a career transition.
+I am seeking new opportunities as a passionate Web Developer, Automation Tester, Cloud Engineer, and Application Support, and I am ready for a career transition.
 
 * 🌍  I'm based in BKK, TH
 * 🖥️  Get to know me at [newpk.is-a.dev](http://newpk.is-a.dev), [new-pakorn](https://newpk-portfolio.netlify.app/)
