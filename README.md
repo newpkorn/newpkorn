@@ -30,4 +30,3 @@ I am seeking new opportunities as a passionate Web Developer, Automation Tester,
 
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=newpkorn&show_&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true&icons=true&locale=en&layout=compact)](https://wakatime.com/@newpkorn/projects/jmbpmwsmtq?start=2024-10-06&end=2024-10-12)
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime/?username=newpkorn&layout=compact&langs_count=16&hide_border=true&custom_title=Wakatime&bg_color=00000000)](https://wakatime.com/@newpkorn)
