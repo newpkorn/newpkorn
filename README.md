@@ -39,6 +39,26 @@ I am seeking new opportunities as a passionate Web Developer, Automation Tester,
   	<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></code>
 </div>
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+    <!-- แถวที่ 1 -->
+    <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="50" height="50" alt="React" title="React"/></code>
+    <code><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/node_js.png" width="50" height="50" alt="Node.js" title="Node.js"/></code>
+    <code><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/express.png" width="50" height="50" alt="Express" title="Express"/></code>
+    <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="50" height="50" alt="TailwindCSS" title="TailwindCSS"/></code>
+    <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="50" height="50" alt="Bootstrap" title="Bootstrap"/></code>
+    <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="50" height="50" alt="Material UI" title="Material UI"/></code>
+    <code><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postman.png" width="50" height="50" alt="Postman" title="Postman"/></code>
+    <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="50" height="50" alt="Git" title="Git"/></code>
+    <code><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/npm.png" width="50" height="50" alt="npm" title="npm"/></code>
+    <code><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/selenium.png" width="50" height="50" alt="Selenium" title="Selenium"/></code>
+    <code><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/robot_framework.png" width="50" height="50" alt="Robot Framework" title="Robot Framework"/></code>
+    <code><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/linux.png" width="50" height="50" alt="Linux" title="Linux"/></code>
+    <code><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/ubuntu.png" width="50" height="50" alt="Ubuntu" title="Ubuntu"/></code>
+    <code><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/visual_studio_code.png" width="50" height="50" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+    <code><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pycharm.png" width="50" height="50" alt="PyCharm" title="PyCharm"/></code>
+    <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="50" height="50" alt="Docker" title="Docker"/></code>
+</div>
+
 
 ### Find Me
 
