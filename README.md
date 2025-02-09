@@ -39,28 +39,6 @@ I am seeking new opportunities as a passionate Web Developer, Automation Tester,
   	<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></code>
 </div>
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-    <!-- แถวที่ 1 -->
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="50" height="50" alt="React" title="React"/>
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/node_js.png" width="50" height="50" alt="Node.js" title="Node.js"/>
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/express.png" width="50" height="50" alt="Express" title="Express"/>
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="50" height="50" alt="TailwindCSS" title="TailwindCSS"/>
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="50" height="50" alt="Bootstrap" title="Bootstrap"/>
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="50" height="50" alt="Material UI" title="Material UI"/>
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postman.png" width="50" height="50" alt="Postman" title="Postman"/>
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="50" height="50" alt="Git" title="Git"/>
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/npm.png" width="50" height="50" alt="npm" title="npm"/><br>
-    <!-- แถวที่ 2 -->
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/selenium.png" width="50" height="50" alt="Selenium" title="Selenium"/>
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/robot_framework.png" width="50" height="50" alt="Robot Framework" title="Robot Framework"/>
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/linux.png" width="50" height="50" alt="Linux" title="Linux"/>
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/ubuntu.png" width="50" height="50" alt="Ubuntu" title="Ubuntu"/>
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/visual_studio_code.png" width="50" height="50" alt="Visual Studio Code" title="Visual Studio Code"/>
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pycharm.png" width="50" height="50" alt="PyCharm" title="PyCharm"/>
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="50" height="50" alt="Docker" title="Docker"/>
-</div>
-
-
 ### Find Me
 
 <p align="left"> <a href="https://www.github.com/newpkorn" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/pknpk" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
