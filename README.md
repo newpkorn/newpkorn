@@ -49,7 +49,7 @@ I am seeking new opportunities as a passionate Web Developer, Automation Tester,
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="50" height="50" alt="Material UI" title="Material UI"/>
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postman.png" width="50" height="50" alt="Postman" title="Postman"/>
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="50" height="50" alt="Git" title="Git"/>
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/npm.png" width="50" height="50" alt="npm" title="npm"/>
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/npm.png" width="50" height="50" alt="npm" title="npm"/><br>
     <!-- แถวที่ 2 -->
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/selenium.png" width="50" height="50" alt="Selenium" title="Selenium"/>
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/robot_framework.png" width="50" height="50" alt="Robot Framework" title="Robot Framework"/>
