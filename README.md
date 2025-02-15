@@ -8,7 +8,7 @@ Hi there! Call me "New" for short. 👋
 I am seeking new opportunities as a passionate Web Developer, Automation Tester, Cloud Engineer, and Application Support, and I am ready for a career transition.
 
 * 🌍  I'm based in BKK, TH
-* 🖥️  Get to know me at [newpakorn](https://newpk.netlify.app/)
+* 🖥️  Get to know me at [newpk.is-a.dev](https://newpk.is-a.dev/)
 
 ### **Programming Languages**  
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
