@@ -70,7 +70,12 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/newpkorn?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Asia%2FBangkok" alt="GitHub Metrics" width="80%" />
+  <img src="https://img.shields.io/badge/Main_Language-Python-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MySQL-orange?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <br/>
+  <img src="https://img.shields.io/badge/Total_Contributions-873-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Longest_Streak-10_Days-ff69b4?style=for-the-badge" />
   
   <br/><br/>
 
