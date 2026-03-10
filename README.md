@@ -70,8 +70,11 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=newpkorn&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=newpkorn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=newpkorn&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
+  
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newpkorn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
