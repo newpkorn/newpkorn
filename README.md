@@ -1,12 +1,16 @@
 <div align="center">
-  <img src="https://camo.githubusercontent.com/f9e02e7b78419b8a446932b9ea4e38368e70324cad524a666ed7e9e39f58c8a1/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39302f37302f33322f39303730333234636466633037633638643630656564306333396537373537332e676966"/>
   
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="300" />
+  <!--img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="300" / -->
 
-  ### 👋 Hi there! Call me "New"
-  **Web Developer | Automation Tester | Aspiring Data Engineer**
-  
-  *Seeking new opportunities to build scalable applications and robust data pipelines.*
+  <p align="center">
+    <img src="https://camo.githubusercontent.com/f9e02e7b78419b8a446932b9ea4e38368e70324cad524a666ed7e9e39f58c8a1/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39302f37302f33322f39303730333234636466633037633638643630656564306333396537373537332e676966" width="100%" />
+  </p>
+
+  <div align="center">
+    <h1>👋 Hi there! Call me "New"</h1>
+    <p><b>Web Developer | Automation Tester | Aspiring Data Engineer</b></p>
+    <p><i>Seeking new opportunities to build scalable applications and robust data pipelines.</i></p>
+  </div>
 </div>
 
 ---
