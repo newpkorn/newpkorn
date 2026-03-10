@@ -70,14 +70,10 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=newpkorn&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://metrics.lecoq.io/newpkorn?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Asia%2FBangkok" alt="GitHub Metrics" width="80%" />
   
-  <br/>
+  <br/><br/>
 
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=newpkorn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=newpkorn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
