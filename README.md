@@ -80,6 +80,10 @@
   <br/><br/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=newpkorn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+  <br/><br/>
+  [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime/?username=newpkorn&layout=compact&langs_count=16&hide_border=true&custom_title=Wakatime&bg_color=00000000)](https://wakatime.com/@newpkorn)
+  
 </div>
 
 ---
